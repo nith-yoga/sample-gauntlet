@@ -47,10 +47,11 @@ const tier2Data: TrackData[] = [
   { id: 210, tier: 2, sample: { videoId: "ef4kuOH5JDo", startSeconds: 253, originalArtist: "The-Dream", originalTrack: "Mr Yeah" }, flip: { artist: "A$AP Rocky", track: "Fashion Killa", videoId: "F6VfsJ7LAlE", startSeconds: 30, alternates: ["ASAP Rocky"] } },
   { id: 211, tier: 2, sample: { videoId: "TgsTmIxAtxY", startSeconds: 0, originalArtist: "Chromatics", originalTrack: "Cherry" }, flip: { artist: "Schoolboy Q", track: "Man of the Year", videoId: "rEMsjeq43_U", startSeconds: 3, alternates: [] } },
   { id: 212, tier: 2, sample: { videoId: "gp9uZjPaB4w", startSeconds: 0, originalArtist: "The Charmels", originalTrack: "As Long As I've Got You" }, flip: { artist: "Wu-Tang Clan", track: "C.R.E.A.M.", videoId: "PBwAxmrE194", startSeconds: 23, alternates: ["Wu Tang Clan", "Wu-Tang"] } },
-  { id: 213, tier: 2, sample: { videoId: "FnRuMrrvhRU", startSeconds: 139, originalArtist: "Nai Barghouti", originalTrack: "Ghandara"}, flip: { artist: "Skrillex", track: "Xena", videoId: "T7SvN0dkQps", startSeconds: 19, alternates: []} },
-  { id: 214, tier: 2, sample: { videoId: "3QKSciwzAqs", startSeconds: 0, originalArtist: "Barry White", originalTrack: "It's Only Love Doing Its Thing"}, flip: { artist: "50 Cent & Nate Dogg", track: "21 Questions", videoId: "cDMhlvbOFaM", startSeconds: 31, alternates: []} },
-  { id: 215, tier: 2, sample: { videoId: "7D50TRpG94g", startSeconds: 93, originalArtist: "The Collective", originalTrack: "Ease Yourself"}, flip: { artist: "Slipknot", track: "Eyeless", videoId: "WLubS6QOMsQ", startSeconds: 2, alternates: []} },
-  { id: 216, tier: 2, sample: { videoId: "BhB6Lb7_kN8", startSeconds: 4, originalArtist: "I Monster", originalTrack: "Daydream in Blue"}, flip: { artist: "Lupe Fiasco", track: "Daydreamin'", videoId: "7XOAStfv-v0", startSeconds: 0, alternates: []} }
+  { id: 213, tier: 2, sample: { videoId: "FnRuMrrvhRU", startSeconds: 139, originalArtist: "Nai Barghouti", originalTrack: "Ghandara" }, flip: { artist: "Skrillex", track: "Xena", videoId: "T7SvN0dkQps", startSeconds: 19, alternates: []} },
+  { id: 214, tier: 2, sample: { videoId: "3QKSciwzAqs", startSeconds: 0, originalArtist: "Barry White", originalTrack: "It's Only Love Doing Its Thing" }, flip: { artist: "50 Cent & Nate Dogg", track: "21 Questions", videoId: "cDMhlvbOFaM", startSeconds: 31, alternates: []} },
+  { id: 215, tier: 2, sample: { videoId: "7D50TRpG94g", startSeconds: 93, originalArtist: "The Collective", originalTrack: "Ease Yourself" }, flip: { artist: "Slipknot", track: "Eyeless", videoId: "WLubS6QOMsQ", startSeconds: 2, alternates: []} },
+  { id: 216, tier: 2, sample: { videoId: "BhB6Lb7_kN8", startSeconds: 4, originalArtist: "I Monster", originalTrack: "Daydream in Blue" }, flip: { artist: "Lupe Fiasco", track: "Daydreamin'", videoId: "7XOAStfv-v0", startSeconds: 0, alternates: []} },
+  { id: 217, tier: 2, sample: { videoId: "68tfsCylDTo", startSeconds: 162, originalArtist: "Renée Geyer", originalTrack: "It's Been A Long Time" }, flip: { artist: "Westside Gunn", track: "$500 Ounces", videoId: "8uDP6zK5Da0", startSeconds: 0, alternates: ["500 Ounces", "500 Dollar Ounces"]} }
 ];
 
 const tier3Data: TrackData[] = [
@@ -66,7 +67,11 @@ const tier3Data: TrackData[] = [
   { id: 310, tier: 3, sample: { videoId: "A1vlcfMvTlA", startSeconds: 44, originalArtist: "Vsichni Praznj", originalTrack: "Siluetes 61" }, flip: { artist: "Tyler, the Creator", track: "NEW MAGIC WAND", videoId: "mdCyzJT59nw", startSeconds: 2, alternates: ["Tyler the Creator"] } },
   { id: 311, tier: 3, sample: { videoId: "Dxetkhf1a-s", startSeconds: 99, originalArtist: "Harry Gregson-Williams & Norihiko Hibino", originalTrack: "Opening Infiltration" }, flip: { artist: "Burial", track: "Archangel", videoId: "8k_f2QK77ew", startSeconds: 34, alternates: [] } },
   { id: 312, tier: 3, sample: { videoId: "K4gcQj_NZ30", startSeconds: 157, originalArtist: "Mya", originalTrack: "My Love is Like...Wo" }, flip: { artist: "Rustie", track: "All Nite", videoId: "bHyu7N2hBGQ", startSeconds: 1, alternates: ["Rustie - All Night"] } },
-  { id: 313, tier: 3, sample: { videoId: "ss7JaHFeB6s", startSeconds: 69, originalArtist: "OPA", originalTrack: "Pieces: Tombo/La Escuela/Tombo/The Last Goodbye" }, flip: { artist: "Flying Lotus, Earl Sweatshirt, and Captain Murphy", track: "Between Friends", videoId: "1FS35SshVxQ", startSeconds: 0, alternates: ["Flying Lotus", "Captain Murphy"]} }
+  { id: 313, tier: 3, sample: { videoId: "ss7JaHFeB6s", startSeconds: 69, originalArtist: "OPA", originalTrack: "Pieces: Tombo/La Escuela/Tombo/The Last Goodbye" }, flip: { artist: "Flying Lotus, Earl Sweatshirt, and Captain Murphy", track: "Between Friends", videoId: "1FS35SshVxQ", startSeconds: 0, alternates: ["Flying Lotus", "Captain Murphy"]} },
+  { id: 314, tier: 3, sample: { videoId: "VLM9-Kv2PmA", startSeconds: 18, originalArtist: "Jae Deal", originalTrack: "Joint 2" }, flip: { artist: "Charli XCX", track: "Everything is Romantic", videoId: "FTIvFD7TCVg", startSeconds: 0, alternates: []} },
+  { id: 315, tier: 3, sample: { videoId: "UuofG8a7EEk", startSeconds: 125, originalArtist: "Kenji Kawai", originalTrack: "Main Theme (Higurashi no Naku Koro Ni" }, flip: { artist: "Pop Smoke", track: "Welcome to the Party", videoId: "usu0XY4QNB0", startSeconds: 24, alternates: []} },
+  { id: 316, tier: 3, sample: { videoId: "b1WoRC1fLdg", startSeconds: 206, originalArtist: "Katy Perry", originalTrack: "Legendary Lovers" }, flip: { artist: "Chief Keef", track: "Save Me", videoId: "MscGczhLTXM", startSeconds: 0, alternates: [] } },
+  { id: 317, tier: 3, sample: { videoId: "WCe35V9uJTI", startSeconds: 1, originalArtist: "David Shire", originalTrack: "Night on Disco Mountain" }, flip: { artist: "Justice", track: "Stress", videoId: "QWaWsgBbFsA", startSeconds: 8, alternates: [] } }
 ];
 
 const tier4Data: TrackData[] = [
@@ -79,9 +84,9 @@ const tier4Data: TrackData[] = [
   { id: 407, tier: 4, sample: { videoId: "1Ro5VHfjpHU", startSeconds: 35, originalArtist: "Earl Klugh", originalTrack: "A Time for Love" }, flip: { artist: "Raekwon", track: "Ice Cream", videoId: "jgh10of6DKA", startSeconds: 0, alternates: ["Wu Tang", "Raekwon & Ghostface Killah"] } },
   { id: 408, tier: 4, sample: { videoId: "bXtajFxMTg0", startSeconds: 35, originalArtist: "Bappi Lahiri", originalTrack: "Come Closer" }, flip: { artist: "Denzel Curry", track: "Worst Comes to Worst", videoId: "FFa-XE0eMqc", startSeconds: 0, alternates: [] } },
   { id: 409, tier: 4, sample: { videoId: "G11KG_lfx5o", startSeconds: 0, originalArtist: "The Dells", originalTrack: "Does Anybody Know I'm Here" }, flip: { artist: "J Dilla", track: "Over the Breaks", videoId: "HSn--s4Bj_M", startSeconds: 0, alternates: [] } },
-  { id: 410, tier: 4, sample: { videoId: "LRfQBpIusTs", startSeconds: 0, originalArtist: "Dorothy Ashby", originalTrack: "Soul Vibrations" }, flip: { artist: "Kanye West", track: "The Joy", videoId: "BoEKWtgJQAU", startSeconds: 0, alternates: ["Ye", "Jay Z"] } },
-  { id: 411, tier: 4, sample: { videoId: "Ps7J8caAVWk", startSeconds: 0, originalArtist: "Hugh Masekela", originalTrack: "Riot" }, flip: { artist: "Earl Sweatshirt", track: "Riot!", videoId: "fh7a5hfh7-Y", startSeconds: 0, alternates: [] } },
-  { id: 412, tier: 4, sample: { videoId: "qNR7AWVGff0", startSeconds: 8, originalArtist: "X-Static", originalTrack: "Naught by Nature"}, flip: { artist: "Brittney Spears", track: "(You Drive Me) Crazy (The Stop Remix!)", videoId: "Q4VK9_CfOLQ", startSeconds: 24, alternates: ["Brittney Spears - Crazy", "Brittney Spears - You Drive Me Crazy"]} }
+  { id: 410, tier: 4, sample: { videoId: "Ps7J8caAVWk", startSeconds: 0, originalArtist: "Hugh Masekela", originalTrack: "Riot" }, flip: { artist: "Earl Sweatshirt", track: "Riot!", videoId: "fh7a5hfh7-Y", startSeconds: 0, alternates: [] } },
+  { id: 411, tier: 4, sample: { videoId: "qNR7AWVGff0", startSeconds: 8, originalArtist: "X-Static", originalTrack: "Naught by Nature"}, flip: { artist: "Brittney Spears", track: "(You Drive Me) Crazy (The Stop Remix!)", videoId: "Q4VK9_CfOLQ", startSeconds: 24, alternates: ["Brittney Spears - Crazy", "Brittney Spears - You Drive Me Crazy"]} },
+  { id: 412, tier: 4, sample: { videoId: "rbPxNCidwoM", startSeconds: 10, originalArtist: "Claudio Simonetti, Massimo Morante, Fabio Pignatelli", originalTrack: "Tenebre" }, flip: { artist: "Justice", track: "Phantom", videoId: "LoZ8l40RpeE", startSeconds: 0, alternates: [] } }
 ];
 
 const tier5Data: TrackData[] = [
@@ -94,7 +99,8 @@ const tier5Data: TrackData[] = [
   { id: 507, tier: 5, sample: { videoId: "Vb-mtj-D_D8", startSeconds: 0, originalArtist: "Eloy", originalTrack: "Isle of Sun" }, flip: { artist: "50 Cent", track: "Financial Freedom", videoId: "KzinA__VAmE", startSeconds: 6, alternates: [] } },
   { id: 508, tier: 5, sample: { videoId: "Nj9UUpNuVjg", startSeconds: 164, originalArtist: "Maneesh de Moor", originalTrack: "Moola Meditation" }, flip: { artist: "Night Lovell", track: "Dark Light", videoId: "HTp5PH8ot6Q", startSeconds: 0, alternates: [] } },
   { id: 509, tier: 5, sample: { videoId: "uDTaGHM7zfs", startSeconds: 98, originalArtist: "Michiru Oshima", originalTrack: "Tsumi" }, flip: { artist: "Curren$y & The Alchemist", track: "Full Metal", videoId: "FkDfA5CY13c", startSeconds: 16, alternates: ["The Alchemist - Full Metal", "Curren$y - Full Metal", "Currensy - Full Metal"] } },
-  { id: 510, tier: 5, sample: { videoId: "1s_5oZqqVQk", startSeconds: 84, originalArtist: "The Sound of Music", originalTrack: "My Favorite Things" }, flip: { artist: "The Avalanches", track: "Frankie Sinatra", videoId: "SjfspM5sDIA", startSeconds: 196, alternates: ["Danny Brown"] } }
+  { id: 510, tier: 5, sample: { videoId: "1s_5oZqqVQk", startSeconds: 84, originalArtist: "The Sound of Music", originalTrack: "My Favorite Things" }, flip: { artist: "The Avalanches", track: "Frankie Sinatra", videoId: "SjfspM5sDIA", startSeconds: 196, alternates: ["Danny Brown"] } },
+  { id: 511, tier: 5, sample: { videoId: "0AY27gLWhtM", startSeconds: 954, originalArtist: "Neon Genesis Evangelion: The End of Evangelion (1997)", originalTrack: "Sohryu Asuka Langley vs Eva Series" }, flip: { artist: "Jane Remover", track: "JRJRJR", videoId: "RiwEzF3DsGk", startSeconds: 132, alternates: [] } }
 ];
 
 export const gameData: TrackData[] = [

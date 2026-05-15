@@ -31,7 +31,11 @@ export default function GameBoard() {
   "GF8aaTu2kg0",
   "Np21rH7Ldto",
   "C217vygclrk",
-  "Q4VK9_CfOLQ"
+  "Q4VK9_CfOLQ",
+  "QWaWsgBbFsA",
+  "dKJfJMMsqX4",
+  "phaJXp_zMYM",
+  "QZXc39hT8t4"
   ];
 
   const [menuVideoId] = useState(() => {
@@ -111,7 +115,7 @@ export default function GameBoard() {
             <h1 className="text-8xl font-black italic tracking-tighter uppercase text-white drop-shadow-[0_0_15px_rgba(255,255,255,0.3)]">
               Sample <span className="text-blue-500">Gauntlet</span>
             </h1>
-            <p className="text-zinc-500 font-bold uppercase tracking-[0.3em] text-sm">Arcade Music Discovery</p>
+            <p className="text-zinc-500 font-bold uppercase tracking-[0.3em] text-sm">The Crate Digger Challenge</p>
           </div>
 
           <button 
