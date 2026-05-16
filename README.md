@@ -18,7 +18,7 @@
 
 - **Framework:** [Next.js 14](https://nextjs.org/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Components:** [Radix UI](https://www.radix-ui.com/) & [Lucide React](https://lucide.dev/)
+- **Components:** [Fuse.js](https://www.fusejs.io/)
 - **Video Engine:** `react-youtube` (YouTube IFrame Player API)
 - **Animations:** `tailwindcss-animate`
 
